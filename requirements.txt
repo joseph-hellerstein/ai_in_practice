@@ -1,0 +1,15 @@
+deepdiff
+importlib_resources
+jupyterlab
+keras
+matplotlib
+pip install importlib_resources
+nose2
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
+tensorflow-datasets
+torch
+torchvision
