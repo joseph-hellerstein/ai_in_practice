@@ -3,6 +3,7 @@ datasets
 deepdiff
 huggingface_hub
 importlib_resources
+ipython
 jupyterlab
 keras
 matplotlib
@@ -10,8 +11,11 @@ nose2
 numpy
 openai
 pandas
+pillow
 scikit-learn
 seaborn
+scikit-image
+tensorboard
 tensorflow
 tensorflow-datasets
 torch
