@@ -4,6 +4,7 @@ deepdiff
 huggingface_hub
 importlib_resources
 ipython
+ipywidgets
 jupyterlab
 keras
 matplotlib
